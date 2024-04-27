@@ -111,6 +111,7 @@ export default function Lobby() {
 								// the room without the JS having loaded
 								navigate('room')
 							}}
+							id="join-button"
 						>
 							Join
 						</Button>
